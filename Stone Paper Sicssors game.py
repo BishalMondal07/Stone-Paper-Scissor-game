@@ -17,15 +17,15 @@ elif (Comp == P and b == "P") :
     print("It's a tie game !")
 elif (Comp == Ss and b == "Ss") :
     print("It's a tie game !")
+    
 elif (Comp == P and b == "S") :
-
     print("Sorry, You have lost the game !")
 elif (Comp == Ss and b == "P") :
     print("Sorry, You have lost the game !")
 elif (Comp == S and b == "Ss") :
     print("Sorry, You have lost the game !")
+    
 elif (Comp == P and b == "Ss") :
-
     print("Congarulatios, You have won !")
 elif (Comp == Ss and b == "S") :
     print("Congarulations, You have won !")
