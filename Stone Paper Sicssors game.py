@@ -26,10 +26,10 @@ elif (Comp == S and b == "Ss") :
     print("Sorry, You have lost the game !")
     
 elif (Comp == P and b == "Ss") :
-    print("Congarulatios, You have won !")
+    print("Congarulations, You have won the game !")
 elif (Comp == Ss and b == "S") :
-    print("Congarulations, You have won !")
+    print("Congarulations, You have won the game !")
 elif (Comp == P and b == "S") :
-    print("Congarulatios, You have won !")
+    print("Congarulations, You have won the game !")
 
 print("Thankyou For Playing !")
